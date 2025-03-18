@@ -36,7 +36,7 @@ Running 30s test @ http://127.0.0.1:8080/index.html
 These results demonstrate the efficiency of this Java-based web server in handling high-concurrency workloads.
 
 ### Benchmarking Screenshot:
-![Benchmarking Results](Screenshot_20250318_211349.png)
+![Benchmarking Results](Screenshot_20250318_220144.png)
 
 ## How to Run
 
